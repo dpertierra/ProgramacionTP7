@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Diego\Desktop\ORT\TP7\app\libs\cocos2d-android.v0.82.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0bd2a4a7260db13d42c683d262bb5243b3b2ed87">
+        <dex dex="C:\Users\Diego\Desktop\ORT\TP7\app\build\intermediates\pre-dexed\debug\cocos2d-android.v0.82_a51b412985290ec890798a74fc22bb1aabadb840.jar" />
+    </item>
+
+</items>
